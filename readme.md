@@ -1,6 +1,9 @@
 ## 🔴 Live Demo
 
-👉 **https://ivanoviliyan.github.io/Twitch-widgets/**
+👉 <a href="https://ivanoviliyan.github.io/Twitch-widgets/" target="_blank" rel="noopener noreferrer">
+Open Live Demo in new tab
+</a>
+
 
 This page hosts the widget via **GitHub Pages** and can be used as:
 - a standalone browser demo
