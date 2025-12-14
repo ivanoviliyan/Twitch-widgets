@@ -8,7 +8,7 @@ The widget is built with plain JavaScript, no bundler or framework required.
 
 ## 🔧 Features
 
-- Connects to the StreamElements **Astro WebSocket Gateway** to receive live events through WebSocket. :contentReference[oaicite:0]{index=0}  
+- Connects to the StreamElements **Astro WebSocket Gateway** to receive live events through WebSocket.
 - Displays the latest follower’s name with animation.  
 - Simple and minimal setup.  
 - Works as a custom overlay widget in StreamElements or as a standalone browser page.
