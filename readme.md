@@ -1,3 +1,12 @@
+## 🔴 Live Demo
+
+👉 **https://ivanoviliyan.github.io/Twitch-widgets/**
+
+This page hosts the widget via **GitHub Pages** and can be used as:
+- a standalone browser demo
+- a StreamElements custom overlay source
+
+
 # Twitch Widgets — StreamElements Follower Overlay
 
 This repository contains a simple **Twitch overlay widget** that connects to the **StreamElements WebSocket API** and displays the latest follower name in real time using JavaScript.
